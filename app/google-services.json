@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471008835519",
+    "project_id": "cafetrinidadfirebase",
+    "storage_bucket": "cafetrinidadfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471008835519:android:f0b43745e978656ae1930a",
+        "android_client_info": {
+          "package_name": "com.sena.cafetrinidadfireb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCBkvaQ5X4nN1YoWGZ9lpAlhfsFLpcBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

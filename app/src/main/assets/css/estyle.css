@@ -1,0 +1,92 @@
+body {
+    background-color: #2c3e50;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Handlee', cursive;
+}
+
+.form-control {
+    background-color: #ff8c3f;
+    font-size: 25px;
+    color: white;
+}
+
+.txt1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
+.my-button {
+    width: 320px;
+    height: 50px;
+    padding: 10px 20px;
+    background-color: #ff6600;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.my-button:hover {
+    background-color: #45a049 !important;
+}
+
+.my-button:active {
+    background-color: #3e8e41;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+.mt-5 {
+    margin-top: 40px;
+
+}
+
+::placeholder {
+    font-size: 16px;
+    color: white;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 1rem;
+    margin: 0 auto;
+}
+
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+
+.form-signin input[type="text"],
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+#contenedor {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px !important;
+}
+#carouselExampleIndicators {
+    margin: 10px 0; /* 20px arriba y abajo, 0 a los lados */
+}
+li{
+List-style:none;
+}
+.footer_ul li a {
+    color: white; /* color blanco para todos los enlaces en el footer*/
+}
